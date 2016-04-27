@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Ctrlasis
+        psr4_prefix: Ctrlasis
+        src_path: app
